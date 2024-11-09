@@ -1,6 +1,6 @@
 # 🔵Windows Komutları
 
-👍*Bu projede en çok kullanılan WİNDOWS komutlarına yer vereceğim.* 
+:student:	*Bu projede en çok kullanılan WİNDOWS komutlarına yer vereceğim.* 
 
 ## 🔴Klasör Komutları
 
@@ -33,8 +33,27 @@
 ![image](https://github.com/user-attachments/assets/da7f47a2-fd42-47d6-8f82-67642428cd2b)
 ![image](https://github.com/user-attachments/assets/dba50fbc-5ea2-4eff-afc0-036bcdba16a8)
 
-
 👍*mkdir komutu, yeni bir dizin/klasör oluşturmaya yarar.*
+
+**6-**
+
+![image](https://github.com/user-attachments/assets/f5b369f5-ef50-43b5-ba8b-127fea1631de)
+
+👍*xcopy komutu, dosya ve klasörleri kopyalamaya yarar.*
+
+**7-**
+
+![image](https://github.com/user-attachments/assets/59b008e7-9a13-480e-b831-19111845c066)
+
+👍*rmdir komutu, dizin veya klasörü silmeye yarar.*
+
+**8-**
+
+
+
+
+
+
 
 
 
