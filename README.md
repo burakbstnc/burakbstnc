@@ -102,6 +102,37 @@
 
 **17-**
 
+![image](https://github.com/user-attachments/assets/59a0d5bd-881a-4bbf-8ad4-6b769b2fc5dc)
+
+👍*ver, komutu bilgisayarımızda ki windowsun mevcut sürümünü öğrenmemize yarar.*
+
+**18-**
+
+![image](https://github.com/user-attachments/assets/810a492e-9701-49c2-8046-081db81bfbc8)
+
+👍*system info, komutu kullanıcıya bilgisayar donanımı hakkında bilgi verir.*
+
+**19-**
+
+![image](https://github.com/user-attachments/assets/ebd889b7-2f82-4129-aba3-fe382d04a4b0)
+
+👍*finger, komutu kullanıcı hakkında bilgi almamıza yarar.*
+
+**20-**
+
+![image](https://github.com/user-attachments/assets/e5fad6f8-ce9b-4f0e-8b5c-c5453f26924f)
+
+👍*help color, komutu istemcinin arka plan renginin değiştirlmesine yarar.*
+
+
+
+
+
+
+
+
+
+
 
 
 
