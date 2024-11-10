@@ -1,8 +1,8 @@
-# 🔵Windows Komutları
+# 🔵Windows Komutları🔵
 
 :student:	*Bu projede en çok kullanılan WİNDOWS komutlarına yer vereceğim.* 
 
-## 🔴Klasör Komutları
+## 🔴Klasör Komutları🔴
 
 **1-**
 
@@ -47,7 +47,43 @@
 
 👍*rmdir komutu, dizin veya klasörü silmeye yarar.*
 
+## 🔴Diğer Sistem Komutları🔴
+
 **8-**
+
+![image](https://github.com/user-attachments/assets/b355c78b-ff9c-4fd2-8029-e1060022d598)
+
+👍*vol komutu, disk birimi etiketini ve seri numarasını görüntülemeye yarar.*
+
+**9-**
+
+![image](https://github.com/user-attachments/assets/b096117c-8f8b-4e53-9627-c2f59f16eced)
+
+👍*devmgmt.msc, komutu aygıt yöneticisini açmaya yarar.*
+
+**10-**
+
+![image](https://github.com/user-attachments/assets/edd2927a-821f-4579-a57f-5204565af2c4)
+
+👍*taskmgr.exe, komutu görev yöneticisini açmaya yarar.*
+
+**11-**
+
+![image](https://github.com/user-attachments/assets/7c80e3dc-fee2-4dab-814a-d70b62094c06)
+
+👍*desk.cpl, komutu görüntü özelliklerini açmaya yarar.*
+
+**13-**
+
+
+
+
+
+
+
+
+
+
 
 
 
