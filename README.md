@@ -75,6 +75,48 @@
 
 **13-**
 
+![image](https://github.com/user-attachments/assets/18559598-dfb8-4a9d-9d46-33f5a03de0f7)
+![image](https://github.com/user-attachments/assets/a4adf9df-9c4a-4efd-aefd-e9e6a8c0f832)
+
+👍*pecho off ve cls, komutları cmd komut istemi sayfasını temizler.*
+
+**14-**
+
+![image](https://github.com/user-attachments/assets/1070e881-82e1-4586-8d99-a880dd136e6e)
+![image](https://github.com/user-attachments/assets/5e96a7e5-c3a3-419c-aedb-c1e98a8cbdd1)
+![image](https://github.com/user-attachments/assets/92db7d85-d957-4685-b9fa-91de80cb72c6)
+
+👍*color a,b,c... , komutları komut isteminde yazılan yazıların renginin değişmesine yarar.*
+
+**15-**
+
+![image](https://github.com/user-attachments/assets/56842c27-8f2d-40ab-9c0c-da4519f245bb)
+
+👍*net share, komutu başka cihazların bilgisayarımıza bağlı olup olmadığını görmemize yarar.*
+
+**16-**
+
+![image](https://github.com/user-attachments/assets/9dfc585c-f01e-4635-9763-4c11da2ee3a2)
+
+👍*netstat, komutu ağ bağlantılarını ve bağlantı noktalarını görüntülemeye yarar.*
+
+**17-**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
