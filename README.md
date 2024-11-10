@@ -1,8 +1,8 @@
-# 🔵Windows Komutları🔵
+# 🔵🔵🔵Windows Komutları🔵🔵🔵
 
 :student:	*Bu projede en çok kullanılan WİNDOWS komutlarına yer vereceğim.* 
 
-## 🔴Klasör Komutları🔴
+## 🔴🔴Klasör Komutları🔴🔴
 
 **1-**
 
@@ -47,7 +47,7 @@
 
 👍*rmdir komutu, dizin veya klasörü silmeye yarar.*
 
-## 🔴Diğer Sistem Komutları🔴
+## 🔴🔴Diğer Sistem Komutları🔴🔴
 
 **8-**
 
